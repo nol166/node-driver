@@ -1,0 +1,14 @@
+{
+  "name": "App",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "entry": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mongodb": "^4.8.0"
+  }
+}
